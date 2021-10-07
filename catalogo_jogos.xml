@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>catalogo_jogos</name>
+    </assembly>
+    <members>
+        <member name="M:catalogo_jogos.Controllers.v1.GameController.Get(System.Int32,System.Int32)">
+            <summary>
+            This service gets all available games
+            </summary>
+            <returns>Returns status code of 200 and list os Games</returns>
+        </member>
+    </members>
+</doc>
